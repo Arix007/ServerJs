@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Aceite",
+    "price": "50",
+    "thumbnail": "url",
+    "id": 1
+  },
+  {
+    "title": "Harina",
+    "price": "50",
+    "thumbnail": "url",
+    "id": 2
+  },
+  {
+    "title": "Yerba",
+    "price": "50",
+    "thumbnail": "url",
+    "id": 3
+  },
+  {
+    "title": "Azucar",
+    "price": "50",
+    "thumbnail": "url",
+    "id": 4
+  }
+]
